@@ -1,6 +1,6 @@
 # Туду лист с бесконечной вложенностью списков туду. С полноценной эмуляцией слоя АПИ
 
-ДЕМО: https://todo-list-with-unlimited-nesting-of-lists.vercel.app/
+ДЕМО: https://todo-list-with-unlimited-nesting-of-lists-tailwind.vercel.app/
 
 # Используется:
 
