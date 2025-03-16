@@ -70,7 +70,7 @@ export function OutlayList({
                   <ListConnection listPosition={row.listPosition} deep={deep}>
                     <div className="flex gap-[2px] rounded-md justify-center w-fit bg-gray-700">
                       <button
-                        title={'Создать дочерний элемент'}
+                        title={`Создать дочерний элемент ${row.body.id}`}
                         onClick={() => onCreate(row.body.id)}
                         disabled={disabled}
                         className="bg-gray-700 border-none w-[30px] h-[30px] rounded-md flex items-center justify-center cursor-pointer hover:bg-gray-600"
